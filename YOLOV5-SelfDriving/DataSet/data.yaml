@@ -1,0 +1,6 @@
+train: ../DataSet/train/images
+val: ../DataSet/valid/images
+test: ../DataSet/test/images
+
+nc: 18
+names: ['person', 'car','traffic sign','green_light','yellow_light','red_light','bicycle','bus', 'dog','motorbike','pole','tricycle','truck','warning_column','ash bin', 'reflective_cone', 'spherical_roadblock','fire_hydrant']
